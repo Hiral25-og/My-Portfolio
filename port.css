@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+    color: #E5D4CE;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+a{
+    color: #EB5160;
+}
+#sample{
+    color:#820263;
+}
+#link{
+    color:#820263;   
+}
